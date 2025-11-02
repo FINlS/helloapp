@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
         Hello();
+        HelloWhite();
     }
 
     static void Hello()
@@ -13,6 +14,10 @@ class Program
     }
         static void HelloWhite()
     {
-        Console.WriteLine("hello white");
+        Console.WriteLine("hello everyone");
+    }
+    static void greetBlack()
+    {
+        Console.WriteLine("hello black");
     }
 }
