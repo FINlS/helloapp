@@ -13,6 +13,6 @@ class Program
     }
         static void HelloWhite()
     {
-        Console.WriteLine("hello white");
+        Console.WriteLine("hello everyone");
     }
 }
